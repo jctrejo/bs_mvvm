@@ -7,7 +7,7 @@ This repository contains the finished sample code for the
 Introduction
 ------------
 
-In May 2017 Google released the Architecture Components libraries.
+In May 2022 Google released the Architecture Components libraries.
 Each library manages and simplifies aspects of data persistence and the
 UI component lifecycle. Together, the libraries encourage a modular
 app architecture that results in reduced complexity and less code.
