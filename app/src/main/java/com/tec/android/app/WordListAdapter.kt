@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.example.android.app.R
 import com.tec.android.app.WordListAdapter.WordViewHolder
+import com.tec.android.app.db.entitys.Word
 
 class WordListAdapter : ListAdapter<Word, WordViewHolder>(WORDS_COMPARATOR) {
 

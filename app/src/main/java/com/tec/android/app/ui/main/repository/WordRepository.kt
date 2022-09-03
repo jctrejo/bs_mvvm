@@ -1,8 +1,8 @@
-package com.tec.android.app
+package com.tec.android.app.ui.main.repository
 
 import androidx.annotation.WorkerThread
-import com.tec.android.app.Word
-import com.tec.android.app.WordDao
+import com.tec.android.app.db.entitys.Word
+import com.tec.android.app.db.dao.WordDao
 import kotlinx.coroutines.flow.Flow
 
 /**

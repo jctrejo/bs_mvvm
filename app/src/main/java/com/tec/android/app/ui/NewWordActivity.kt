@@ -1,4 +1,4 @@
-package com.tec.android.app
+package com.tec.android.app.ui
 
 import android.app.Activity
 import android.content.Intent

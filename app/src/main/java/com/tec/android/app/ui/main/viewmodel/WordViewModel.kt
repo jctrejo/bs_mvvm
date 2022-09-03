@@ -5,6 +5,8 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.asLiveData
 import androidx.lifecycle.viewModelScope
+import com.tec.android.app.db.entitys.Word
+import com.tec.android.app.ui.main.repository.WordRepository
 import kotlinx.coroutines.launch
 
 /**

@@ -1,4 +1,4 @@
-package com.tec.android.app
+package com.tec.android.app.db.entitys
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

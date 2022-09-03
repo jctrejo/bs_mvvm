@@ -1,8 +1,8 @@
-package com.tec.android.app
+package com.tec.android.app.extension
 
 import android.app.Application
-import com.tec.android.app.WordRepository
-import com.tec.android.app.WordRoomDatabase
+import com.tec.android.app.db.WordRoomDatabase
+import com.tec.android.app.ui.main.repository.WordRepository
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.SupervisorJob
 
